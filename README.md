@@ -13,3 +13,5 @@ Das ist ein neuer Commit!
 ## Change in different branch
 
 Added this line of text in different branch.
+
+2. Have Fun!
